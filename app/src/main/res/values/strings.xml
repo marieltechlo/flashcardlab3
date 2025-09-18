@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">flashcardlab3</string>
+    <string name="barack_obama">Barack Obama</string>
+    <string name="bill_clinton">Bill Clinton</string>
+    <string name="george_bush">George H. W. Bush</string>
+    <string name="question1">Who is the  44th President of the United States</string>
+    <string name="answer">Enter the Answer here</string>
+    <string name="question">Enter the Question here</string>
+</resources>
