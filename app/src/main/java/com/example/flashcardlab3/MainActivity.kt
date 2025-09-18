@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         flashcardDatabase = FlashcardDatabase(this)
+        flashcardDatabase.initFirstCard()
         allFlashcards = flashcardDatabase.getAllCards().toMutableList()
 
         flashcardQuestion=findViewById<TextView>(R.id.flashcard_question)

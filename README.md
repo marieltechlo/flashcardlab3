@@ -6,7 +6,7 @@
 This app able user to create theirs card and save in a database and display them .
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="Walkthough.gif" width=200><br>
 
 
 
